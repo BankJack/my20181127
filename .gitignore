@@ -62,10 +62,10 @@ out
 atlassian-ide-plugin.xml
 
 # Eclipse specific files/directories
-.classpath
-.project
-.settings
-.metadata
+#.classpath
+#.project
+#.settings
+#.metadata
 
 # NetBeans specific files/directories
 .nbattrs
